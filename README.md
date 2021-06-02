@@ -1,6 +1,6 @@
 # Speech to Text Converter
 
-A new Flutter project.
+A Speech to Text conversion Flutter app that recognizes & analyzes your words to execute commands..
 
 ## Getting Started
 
