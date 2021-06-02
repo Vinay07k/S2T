@@ -1,4 +1,4 @@
-# s2tc
+# Speech to Text Converter
 
 A new Flutter project.
 
